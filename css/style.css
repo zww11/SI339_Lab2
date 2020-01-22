@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+  color: purple;
+}
+h2{
+  color: blue;
+  text-shadow: 2px 2px black;
+}
+ol {
+  list-style-image: url('image/TGUM.jpg');
+}
